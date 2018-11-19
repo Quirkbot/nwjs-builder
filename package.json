@@ -1,10 +1,6 @@
 {
   "name": "nwjs-builder",
-<<<<<<< HEAD
-  "version": "1.14.0",
-=======
-  "version": "1.13.2",
->>>>>>> release/1.13.2
+  "version": "1.14.1",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
